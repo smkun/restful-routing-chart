@@ -1,0 +1,3 @@
+| HTTP Method | URL Path | Route Name | Data Payload | Description |
+|-------------|----------|------------|--------------|-------------|
+| GET | / | INDEX | No | Display a list of all superheroes                                             |
